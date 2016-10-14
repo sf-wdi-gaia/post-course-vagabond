@@ -38,9 +38,9 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 3. **Which models do you need to implement?** Create an ERD for the client to reference.
 
-4. **What are the major milestones or components that you need to complete?** How can these be turned into tasks that group members can complete in pairs? Where do these milestones overlap and how will those related tasks be managed?
+4. **What are the major milestones or components that you need to complete?** How can these be turned into tasks? Where do these milestones overlap and how will those related tasks be managed?
 
-5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
+5. **What milestones are you interested in working on?** How can you effectively delegate the work into segments?
 
 ## Stacks and Frameworks
 
@@ -51,6 +51,6 @@ You are free to choose a stack of your choice to implement this project. You may
 After completing the project, practice explaining the following about this reworked version of Vagabond:
 
 * Tour (demo) of your app deployed on heroku.
-* How did your group approach the requirements? (mention anything unique or creative your group chose to do)
+* How did you approach the requirements?
 * What was easier than you thought? What was more challenging?
 * What did you learn about the stack/framework you chose?
